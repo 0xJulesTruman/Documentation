@@ -1,8 +1,7 @@
-# Table of contents
-
-* [Introduction](README.md)
-* [Why AI-NFT?](why-ai-nft.md)
-* [How AI-NFT Works?](how-ai-nft-works.md)
-* [AI-NFT Metadata](ai-nft-metadata.md)
-* [Github](https://github.com/xNomad-AI)
-* [X](https://x.com/xNomadAI)
+目录
+简介
+为什么选择AI-NFT？
+AI-NFT如何工作？
+AI-NFT元数据
+Github
+X

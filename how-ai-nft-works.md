@@ -1,21 +1,17 @@
-# How AI-NFT Works?
-
+AI-NFT 如何工作？
 <img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+该图展示了AI-NFT的架构和功能。
 
-This diagram illustrates the architecture and functionality of AI-NFTs.&#x20;
+一个AI-NFT需要的关键组件：
 
-The key component an AI-NFT needs:
+扩展的NFT元数据，包含AI代理的角色配置文件。
+一般的NFT合约。
+安装了Eliza的TEE运行时。
+通过这种方式，AI-NFT可以利用现有的框架和基础设施。通过将AI代理的角色文件JSON嵌入到NFT元数据中并部署到区块链上，AI代理便无缝地转化为链上的资产。
 
-* An extended NFT metadata with AI agent's character config file.
-* A general NFT contract.
-* A runtime in TEE with Eliza installed.
+简单就是最好的。
 
-In this way, AI-NFTs can utilize existing frameworks and infrastructure. By embedding the AI agent’s character file JSON into an NFT metadata and deploying it on the blockchain, the AI agent seamlessly transforms into an on-chain asset.
+关于AI-NFT元数据的更多细节，请查看此页面：
 
-Simple is the best.
+{% content-ref url="ai-nft-metadata.md" %} ai-nft-metadata.md {% endcontent-ref %}
 
-For more details about AI-NFT metadata, pls check this page:
-
-{% content-ref url="ai-nft-metadata.md" %}
-[ai-nft-metadata.md](ai-nft-metadata.md)
-{% endcontent-ref %}

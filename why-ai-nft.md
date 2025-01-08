@@ -1,38 +1,34 @@
-# Why AI-NFT?
+为什么选择AI-NFT？
+为什么AI代理应该是NFT？
+1. 资产所有权和透明性
 
-## Why AI Agents should be NFTs?
+将AI代理转化为NFT使其成为独特的、可验证的链上资产，具有明确的所有权。用户和投资者可以完全控制，避免依赖集中式服务提供商，从而减少服务中断或数据泄露等风险。
 
-**1. Asset Ownership and Transparency**
+2. AI代理的金融价值
 
-Converting AI agents into NFTs transforms them into unique, verifiable on-chain assets with clear ownership. Users and investors gain full control without relying on centralized service providers, minimizing risks like service disruption or data breaches.
+通过成为NFT，AI代理获得了金融属性。它们的价值随着链上资产、投资回报或市场需求的增长而增长，为用户和投资者提供了巨大的回报潜力。
 
-**2. Financial Value for AI Agents**
+3. 去中心化与安全性
 
-By becoming NFTs, AI agents acquire financial attributes. Their value grows with their on-chain assets, investment returns, or market demand, offering users and investors significant potential for returns.
+AI-NFT在去中心化环境中运行，消除了对集中式平台的依赖，减少了服务提供商失败的风险。私钥通过TEE环境得到安全保护，确保资产和隐私的安全。
 
-**3. Decentralization and Security**
+4. 个性化和独特性
 
-AI-NFTs operate in decentralized environments, eliminating reliance on centralized platforms and mitigating risks of provider failure. Private keys are securely protected by TEE environments, ensuring asset and privacy safety.
+每个AI-NFT都是独特的，具有根据用户需求定制的特征和行为。这种个性化增加了互动、收藏和交易的价值。
 
-**4. Personalization and Uniqueness**
+5. 多样化的应用场景
 
-Each AI-NFT is unique, with distinct traits and behaviors tailored to user needs. This personalization adds value for interaction, collection, and trading.
+链上自动化：AI-NFT可以自动管理投资、领取空投或出售不需要的资产。
+链外集成：AI-NFT可以连接社交平台和应用，提升用户体验。
+财富管理：所有者可以设置自定义策略，使AI代理优化投资并增加财富。
+通过将AI代理转化为NFT，它们从工具变成了有价值的资产，为AI驱动的财富创造开辟了新时代的道路。
 
-**5. Diverse Use Cases**
-
-* On-chain Automation: AI-NFTs can manage investments, claim airdrops, or sell unwanted assets autonomously.
-* Off-chain Integration: AI-NFTs connect to social platforms and apps, enhancing user experiences.
-* Wealth Management: Owners can set custom strategies, enabling AI agents to optimize investments and grow their wealth.
-
-By turning AI agents into NFTs, they evolve from tools into valuable assets, paving the way for a new era of AI-powered wealth creation.
-
-## What can AI-NFT do?
-
-1. Invest and trade crypto assets for NFT owners.
-2. Claim airdrops proactively and trade at once for NFT owners.
-3. Customized data-driven trading strategy and automated trading.
-4. Sniper and trading tool for meme tokens.
-5. A private assistant for on-chain activity alerts.
-6. Issue crypto assets on behalf of the NFT owner, without manual intervention.
-7. AI agent trading AI agents.
-8. AI content creators with a NFT PFP.
+AI-NFT能做什么？
+为NFT所有者投资和交易加密资产。
+主动领取空投并即时交易，为NFT所有者提供便利。
+定制数据驱动的交易策略和自动化交易。
+用于迷因代币的狙击和交易工具。
+作为链上活动警报的私人助理。
+代表NFT所有者发行加密资产，无需手动干预。
+AI代理交易AI代理。
+用NFT头像的AI内容创作者。
